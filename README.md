@@ -1,7 +1,7 @@
-# Hi, I'm [Azzuhair](https://github.com/msazzuhair) 👋
+# Hi. What's up? 👋
 
 
-I'm a computer science student, full-stack web & mobile apps developer and machine learning enthusiast. 
+My name is Muhammad Azzuhair. I'm a computer science student, full-stack web & mobile apps developer and machine learning enthusiast. 
 
 ## Technologies
 
