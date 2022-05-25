@@ -36,9 +36,5 @@ My name is Muhammad Azzuhair. I'm a computer science student, full-stack web & m
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://research.google.com/colaboratory/)
 
 ## My Stats
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=msazzuhair&count_private=true&theme=tokyonight&show_icons=true" alt="GitHub Stats">
-</span>
-<span>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=msazzuhair&theme=tokyonight&langs_count=5" alt="Wakatime Stats">
-</span>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msazzuhair&count_private=true&theme=tokyonight&show_icons=true)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msazzuhair&theme=tokyonight&langs_count=5)
