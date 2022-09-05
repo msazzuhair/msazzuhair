@@ -1,7 +1,7 @@
 # Hi. What's up? 👋
 
 
-My name is Muhammad Azzuhair. I'm a computer science student, full-stack web & mobile apps developer and machine learning enthusiast. I'm always open for collaboration or discussion. You can contact me through my twitter account below:
+My name is Muhammad Azzuhair. I'm a full-stack web & mobile apps developer and machine learning enthusiast. I'm always open for collaboration or discussion. You can contact me through my twitter account below:
 
 [![Twitter](https://img.shields.io/badge/msazzuhair-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/msazzuhair)
 
