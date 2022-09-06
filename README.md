@@ -36,5 +36,6 @@ My name is Muhammad Azzuhair. I'm a full-stack web & mobile apps developer and m
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://research.google.com/colaboratory/)
 
 ## My Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msazzuhair&count_private=true&theme=tokyonight&show_icons=true)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=msazzuhair&theme=tokyonight&langs_count=5)
+![GitHub Stats](https://github-readme-stats-msazzuhair.vercel.app/api?username=msazzuhair&count_private=true&theme=tokyonight&show_icons=true)
+![Wakatime Stats](https://github-readme-stats-msazzuhair.vercel.app/api/wakatime?username=msazzuhair&theme=tokyonight&langs_count=5)
+![Languages](https://github-readme-stats-msazzuhair.vercel.app/api/top-langs?theme=tokyonight&username=msazzuhair&hide=html,blade,css&layout=compact)
