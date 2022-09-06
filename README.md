@@ -31,7 +31,8 @@ My name is Muhammad Azzuhair. I'm a full-stack web & mobile apps developer and m
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com/)
 
 ## My Favorite IDEs
-[![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)](https://www.jetbrains.com/phpstorm/)
+[![PhpStorm](https://img.shields.io/badge/phpstorm-9932cc?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://research.google.com/colaboratory/)
 
