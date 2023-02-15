@@ -49,7 +49,7 @@
 <p align="center" width="50"><img src="https://github-readme-streak-stats.herokuapp.com/?user=msazzuhair&theme=tokyonight&hide_border=true" alt="Streak Counter"></p>
 
 <p align="center">
-<img src="https://github-readme-stats-msazzuhair.vercel.app/api?username=msazzuhair&amp;count_private=true&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats-msazzuhair.vercel.app/api?username=msazzuhair&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true" alt="GitHub Stats">
 </p>
 <p align="center">
 <img src="https://github-readme-stats-msazzuhair.vercel.app/api/wakatime?username=msazzuhair&amp;theme=tokyonight&amp;langs_count=5&amp;hide_border=true" alt="Wakatime Stats">
