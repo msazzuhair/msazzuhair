@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats-msazzuhair.vercel.app/api?username=msazzuhair&amp;count_private=true&amp;include_all_commits=true&amp;theme=tokyonight&amp;show_icons=true&amp;hide_border=true&amp;hide_title=true" alt="GitHub Stats">
 </p>
 <p align="center">
-<img src="https://github-readme-stats-msazzuhair.vercel.app/api/wakatime?username=msazzuhair&amp;theme=tokyonight&amp;langs_count=5&amp;hide_border=true" alt="Wakatime Stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=msazzuhair&amp;theme=tokyonight&amp;langs_count=5&amp;hide_border=true" alt="Wakatime Stats">
 </p>
 <p align="center">
 <img src="https://github-readme-stats-msazzuhair.vercel.app/api/top-langs?theme=tokyonight&amp;username=msazzuhair&amp;hide=html,blade,css&amp;layout=compact&amp;hide_border=true" alt="Languages">
